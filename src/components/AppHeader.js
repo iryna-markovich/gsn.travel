@@ -13,7 +13,7 @@ const AppHeader = ({ classes }) => (
   <AppBar position="static">
     <Toolbar>
       <Typography variant="title" color="inherit">
-        My React App
+        My React App TEST
       </Typography>
       <div className={classes.flex} />
       <LoginButton />
